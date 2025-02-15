@@ -2,5 +2,5 @@
 - **Rol:** Diseñador de personajes y escenarios
 - **Ubicación:** Palmira Valle del Cauca, Colombia
 - **Perfil:** Me interesa crear personajes únicos para videojuegos y escenarios vividos y con profundiad.
-- ![Foto de mi comida favorita](PASTA.jpg)
+- ![Foto de mi comida favorita](https://github.com/JuanDavidLopez098/-PV-Gatos-Negros/blob/Juan-David-Lopez-Salazar/Juan/PASTA.jpg?raw=true)
   
