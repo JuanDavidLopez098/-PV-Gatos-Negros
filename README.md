@@ -3,8 +3,8 @@ Gatos negros es el grupo de trabajo colaborativo para el grupo 213027_8 de Progr
 
 Este grupo esta conformado por:
 
-ANYI MABEL CONEJO BENACHI
+- ANYI MABEL CONEJO BENACHI
 
-JUDIER ALBERTO SUCERQUIA MACIAS
+- JUDIER ALBERTO SUCERQUIA MACIAS
 
-JUAN DAVID LOPEZ SALAZAR
+- JUAN DAVID LOPEZ SALAZAR
