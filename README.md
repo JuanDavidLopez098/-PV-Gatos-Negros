@@ -1,4 +1,5 @@
 # -PV-Gatos-Negros
+![Logo Grupo](https://github.com/JuanDavidLopez098/-PV-Gatos-Negros/blob/main/Juan/PASTA.jpg?raw=true)
 Gatos negros es el grupo de trabajo colaborativo para el grupo 213027_8 de Programación para videojuegos. (Universidad Nacional Abierta y a Distancia)
 
 
